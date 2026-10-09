@@ -1,0 +1,6 @@
+{
+  "name": "Bharat Kart - Online Shopping Platform",
+  "description": "India's premier online shopping platform with multi-role access (User, Employee, Manager), UPI QR payments, OpenStreetMap delivery pin, real-time staff order status updates, and customer live order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
